@@ -1,0 +1,15 @@
+{
+    "name": "croww/new-php-unit",
+    "autoload": {
+        "psr-4": {
+            "Croww\\NewPhpUnit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Helder Alencar",
+            "email": "125486441+Helder-Al@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
